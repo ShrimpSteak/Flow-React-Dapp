@@ -6,6 +6,9 @@ cd Flow-React-Dapp
 npm install
 ```
 # 參考文獻
+影片連結
+https://www.youtube.com/watch?v=zvX5m5wt-uI
+
 Node.js官網
 https://nodejs.org/zh-tw/download/
 
